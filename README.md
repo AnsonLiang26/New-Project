@@ -4,4 +4,4 @@ A react budget application that helps users plan their budgets and see where the
 
 Demo Video: https://youtu.be/N9jnX65NCgw
 
-Technologies Used: JavaScript, React, HTML, CSS
+Technologies Used: JavaScript, React, TypeScript, HTML, CSS
